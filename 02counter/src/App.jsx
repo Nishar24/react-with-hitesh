@@ -25,7 +25,7 @@ function App() {
   
   return (
     <>
-     <h1>Nishar aur React</h1>
+     <h1>Nishu aur React</h1>
      <h2>Counter value:{counter}</h2>
 
      <button onClick={addValue} >Add value</button>

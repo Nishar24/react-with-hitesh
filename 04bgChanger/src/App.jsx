@@ -1,4 +1,4 @@
-// BG Changer
+// Background Changer
 import { useState } from "react"
 
 
